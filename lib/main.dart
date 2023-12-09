@@ -103,7 +103,7 @@ class _calcaState extends State<calca> {
           aspectRatio: 1.0, // Set the aspect ratio to 1.0 for square buttons
           child: Text(
             value,
-            style: TextStyle(color: Colors.white, fontSize: 40),
+            style: TextStyle(color: const Color.fromARGB(255, 233, 215, 215), fontSize: 40),
           ),
         ),
       ),
