@@ -58,7 +58,7 @@ class _calcaState extends State<calca> {
                           '$number1$operand$number2'.isEmpty
                               ? '0'
                               : '$number1$operand$number2',
-                          style: TextStyle(fontSize: 20, color: Color.fromARGB(255, 237, 3, 89)),
+                          style: TextStyle(fontSize: 20, color: Color.fromARGB(255, 197, 81, 123)),
                         ),
                       ),
                     ),
